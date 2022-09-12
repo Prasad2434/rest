@@ -1,0 +1,8 @@
+JAVA_HOME--> this pc-OS-Programfiles-java-jdk
+Path--> this pc-OS-Programfiles-java-jdk-bin
+ANDROID_HOME--> c-Users-Appdata-local-Android-sdk
+Path--> c-Users-Appdata-local-Android-sdk-tools
+path-->c-Users-Appdata-local-Android-sdk-tools-bin
+path--> c-Users-Appdata-local-Android-sdk-platformtools
+NODE_HOME--> c/programs/files/nodejs
+path--> c/programfiles/nodejs/nodemodule/npm/bin
